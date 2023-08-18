@@ -1,6 +1,6 @@
 # Alpha-Lima
 
-Projeto para cliente da Alaska Websites
+Projeto para cliente Alpha Lima
 
 <img src="./img/design1.png" alt="Alpha-Lima">
 <img src="./img/design2.png" alt="Alpha-Lima">
